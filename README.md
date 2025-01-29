@@ -1,5 +1,3 @@
-# entrysystem
-This is my first creation and publication.
 ### **README: NFC 入退室管理システム**
 
 ## **概要**
