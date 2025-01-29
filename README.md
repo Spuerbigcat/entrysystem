@@ -25,13 +25,6 @@ This is my first creation and publication.
 - Python 3.x
 - Windows または Linux
 
-### **必要なライブラリ**
-以下のライブラリが必要です。事前にインストールしてください。
-
-```bash
-pip install nfcpy playsound gspread google-auth
-```
-
 ---
 
 ## **設定手順**
@@ -48,17 +41,15 @@ pip install nfcpy playsound gspread google-auth
 2. スクリプトを実行
 
 ```bash
-python attendance_manager.py
+python entrysystem.py
 ```
 
 ---
 
 ## **ファイル構成**
 ```
-/attendance_manager/
-│── attendance_manager.py   # メインスクリプト
-│── jyouhou-xxxxxx.json     # Google API認証用のキー
-│── requirements.txt        # 必要なライブラリ
+/entrysystem/
+│── entrysystem.py   # メインスクリプト
 │── README.md               # 本ドキュメント
 ```
 
@@ -88,9 +79,5 @@ python attendance_manager.py
 ---
 
 ## **作者**
-- **名前**: [あなたの名前]
-- **連絡先**: [あなたのメールアドレス]
+- **名前**: [Superbigcat]
 
----
-
-このREADMEを修正したい場合は、お気軽にご相談ください！ 😊
